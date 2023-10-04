@@ -1,6 +1,9 @@
 This repo contains all the files used in the Czechoslovakia Bank Analysis Project.
 
-The data is related to Financial marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not. Find key metrics and factors and show the meaningful relationships between attributes.
+The Czechoslovakia Bank has provided a dataset containing information about its
+financial activities for the past 5 years.The dataset consists of the following tables:
+  1.Account
+  2.Card
 
 Czech Bank Data.zip :- This compressed file contains all datasets used in the Project for analysis. (Main dataset)
 
