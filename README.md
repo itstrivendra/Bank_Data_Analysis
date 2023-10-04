@@ -1,7 +1,7 @@
 This repo contains all the files used in the Czechoslovakia Bank Analysis Project.
 
 The Czechoslovakia Bank has provided a dataset containing information about its
-financial activities for the past 5 years.The Czechoslovakia Bank wants to analyse its financial data to gain insights and make informed
+financial activities for the past 5 years. The Czechoslovakia Bank wants to analyse its financial data to gain insights and make informed
 decisions. The bank needs to identify trends, patterns, and potential risks in its financial
 operations. They also want to explore the possibility of introducing new financial products or
 services based on their analysis.
